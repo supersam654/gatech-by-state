@@ -33,13 +33,13 @@ You can run the script yourself with:
 
 ## Findings
 
-First and foremost, I was unsurprised that Georgians are vastly overrepresented at GT. It's a fantastic state school and, if I was paying in-state tuition, I couldn't imagine going to any other engineering school without a huge scholarship.
+First and foremost, I was unsurprised that **Georgians are vastly overrepresented at GT**. It's a fantastic state school and, if I was paying in-state tuition, I couldn't imagine going to any other engineering school without a huge scholarship.
 
-At the bottom of the list, we can see that California, Texas, and New York are underrepresented at the school. All three of those states have huge populations potentially many other in-state schools to pick from. California in particular has many wonderful in-state universities which would be very hard to refuse compared with out-of-state tuition at GT.
+At the bottom of the list, we can see that **California, Texas, and New York are underrepresented at the school**. All three of those states have huge populations and other in-state schools to pick from. California in particular has many wonderful in-state universities which would be very hard to refuse compared with out-of-state tuition at GT.
 
-And finally, we get to Florida. From the data, we can see that Florida is (I assume statistically insignificantly) slightly underrepresented at GT. At first glance, this would imply that Florida is appropriately represented on campus.
+And finally, we get to Florida. From the data, we can see that Florida is (I assume statistically insignificantly) slightly underrepresented at GT. At first glance, this would imply that **Florida is appropriately represented on campus**.
 
-Unfortunately, this goes directly against a consensus of public opinions. Why do people think there are so many Floridians when there really aren't? After looking at the data a bit, something looked a bit weird. Other really populous states (CA, NY, TX) are underrepresented on campus which makes them appear more in line with less populous states. However, Floridians ignore that trend and flock to GT. Why? Probably a combination of geography and lack of good universities in Florida. Looking at what percentage of students go to out-of-state schools would be enlightening (although I have a hunch economic prosperity will be a stronger indicator than school choice). All of this culminates in Floridians being the second largest group on campus by a long shot.
+Unfortunately, this goes directly against a consensus of public opinions. Why do people think there are so many Floridians when there really aren't? After looking at the data a bit, something looked a bit weird. Other really populous states (CA, NY, TX) are underrepresented on campus which makes them appear more in line with less populous states. However, Floridians ignore that trend and flock to GT. Why? Probably a combination of geography and lack of good universities in Florida. Looking at what percentage of students go to out-of-state schools would be enlightening (although I have a hunch economic prosperity will be a stronger indicator than school choice). All of this culminates in **Floridians being the second largest group** on campus by a long shot.
 
 ## Raw Data
 
